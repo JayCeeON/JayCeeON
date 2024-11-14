@@ -4,7 +4,7 @@
 
 **`Currently working at ABB - Backend Robotics `**
 
-![Banner_2](./media/banner_2.png)
+![Banner_3](./media/banner_3.png)
 
 ### About me 
 I am a Robotics Engineer from Madrid, Spain, with a vision to bring machines to life in ways that empower and inspire. Driven by innovation, I build intelligent systems that push the limits of technology, transforming ideas into solutions that make a difference.
