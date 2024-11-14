@@ -12,7 +12,7 @@ I'm a robotics engineer with a passion for innovation and the transformative pow
 
 - 👨‍💻 I’m currently working on F1Tenth Autonomous Racing Systems 🏎️.
 - 📚 I’m currently learning Deep Reinforcement Learning for Robotics!
-- ![German](./media/german.png) I'm currently learning German!
+- ![German_Flag](./media/german.png) I'm currently learning German!
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 
