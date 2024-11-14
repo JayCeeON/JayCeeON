@@ -29,6 +29,14 @@ I'm a robotics engineer with a passion for innovation and the transformative pow
 <br />
 
 ### 🌐 Robotics Simulators
+![Gazebo](https://img.shields.io/badge/Gazebo-orange)
+![Robotstudio](https://img.shields.io/badge/Robotstudio-red)
+![WEBOTS](https://img.shields.io/badge/WEBOTS-darkred)
+![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-red)
+![GymnasiumRobotics](https://img.shields.io/badge/Gymnasium%20Robotics-blue)
+![CARLA](https://img.shields.io/badge/CARLA-grey)
+![Unity](https://img.shields.io/badge/Unity-black)
+
 
 ### 📇 Contact me!
 
