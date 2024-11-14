@@ -9,9 +9,9 @@
 ### About me 
 I am a Robotics Engineer from Madrid, Spain, with a vision to bring machines to life in ways that empower and inspire. Driven by innovation, I build intelligent systems that push the limits of technology, transforming ideas into solutions that make a difference.
 
-👨‍💻 I’m currently working on F1Tenth Racing Autonomous Systems 🏎️.
-📚 I’m currently learning Deep Reinforcement Learning for Robotics!
-💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 👨‍💻 I’m currently working on F1Tenth Racing Autonomous Systems 🏎️.
+- 📚 I’m currently learning Deep Reinforcement Learning for Robotics!
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 
 ### 🧰 Languages and Tools
