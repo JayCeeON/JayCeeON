@@ -18,19 +18,18 @@ I'm a robotics engineer with a passion for innovation and the transformative pow
 ### 🧰 Languages and Tools
 ![ROS](https://img.shields.io/badge/ROS-grey?logo=ros)
 ![ROS2](https://img.shields.io/badge/ROS2-blue?logo=ros)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow)
+![C](https://img.shields.io/badge/C-darkblue?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-darkblue?logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-yellow?logo=linux&logoColor=black)
+![MATLAB/SIMULINK](https://img.shields.io/badge/MATLAB%2FSIMULINK-orange)
+![CUDA](https://img.shields.io/badge/CUDA-lime?logo=nvidia&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-lightblue?logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-grey?logo=javascript&logoColor=yellow)
+![HTML5](https://img.shields.io/badge/HTML5-red?logo=html5&logoColor=white)
 <br />
 
-#
+### 🧰 Robotics Simulators
 <!--
 **JayCeeON/JayCeeON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
