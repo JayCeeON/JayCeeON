@@ -56,5 +56,5 @@ I'm a robotics engineer with a passion for innovation and the transformative pow
 
 #
 
-![GIF](./media/giphy.gif)
+<!--![GIF](./media/giphy.gif)
 
