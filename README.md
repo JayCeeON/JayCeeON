@@ -1,6 +1,6 @@
-# 🦾 Joaquín Coloma
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+I'm+Joaquin+Coloma!;I+Like+Robotics+and+AI)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There!;I'm+Joaquin+Coloma)](https://git.io/typing-svg)
+# 🦾 Joaquín Coloma
 
 **`Robotics Engineer - Currently working on ABB`**
 
