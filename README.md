@@ -44,7 +44,7 @@ I'm a robotics engineer with a passion for innovation and the transformative pow
 
 #
 
-### See some of my Projects on youtube!
+### 📽️ See some of my projects on Youtube!
 <!-- BEGIN YOUTUBE-CARDS -->
 [![ROS2 F1TENTH: Pure Pursuit + Obstacle Avoidance](https://ytcards.demolab.com/?id=tcOMKYq9nDA&title=ROS2+F1TENTH%3A+Pure+Pursuit+%2B+Obstacle+Avoidance&lang=en&timestamp=1731172586&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ROS2 F1TENTH: Pure Pursuit + Obstacle Avoidance")](https://www.youtube.com/watch?v=tcOMKYq9nDA)
 [![ROS-Gazebo: Turtlebot3 Navigation using Frontier Exploration](https://ytcards.demolab.com/?id=VYoRoqiOCD8&title=ROS-Gazebo%3A+Turtlebot3+Navigation+using+Frontier+Exploration&lang=en&timestamp=1712503953&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ROS-Gazebo: Turtlebot3 Navigation using Frontier Exploration")](https://www.youtube.com/watch?v=VYoRoqiOCD8)
