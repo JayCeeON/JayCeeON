@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Teko&weight=800&size=52&pause=1000&color=6EEBF7&background=FFFFFF00&vCenter=true&width=435&lines=Joaquin+Coloma)](https://git.io/typing-svg)
-[GIF](./media/giphy.gif)
+![GIF](./media/giphy.gif)
 
 # Robotics Engineer - Industrial and Mobile Robotics!
 
@@ -12,7 +12,7 @@ I'm a robotics engineer with a passion for innovation and the transformative pow
 
 - 👨‍💻 I’m currently working on F1Tenth Autonomous Racing Systems 🏎️.
 - 📚 I’m currently learning Deep Reinforcement Learning for Robotics!
-- [German](./media/german.png) I'm currently learning German!
+- ![German](./media/german.png) I'm currently learning German!
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 
