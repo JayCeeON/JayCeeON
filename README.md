@@ -42,6 +42,9 @@ I'm a robotics engineer with a passion for innovation and the transformative pow
 <a target="_blank" href="https://www.linkedin.com/in/joaquincoloma/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:joaquincc1254@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
+#
+
+### See some of my Projects on youtube
 <!-- BEGIN YOUTUBE-CARDS -->
 [![ROS2 F1TENTH: Pure Pursuit + Obstacle Avoidance](https://ytcards.demolab.com/?id=tcOMKYq9nDA&title=ROS2+F1TENTH%3A+Pure+Pursuit+%2B+Obstacle+Avoidance&lang=en&timestamp=1731172586&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ROS2 F1TENTH: Pure Pursuit + Obstacle Avoidance")](https://www.youtube.com/watch?v=tcOMKYq9nDA)
 [![ROS-Gazebo: Turtlebot3 Navigation using Frontier Exploration](https://ytcards.demolab.com/?id=VYoRoqiOCD8&title=ROS-Gazebo%3A+Turtlebot3+Navigation+using+Frontier+Exploration&lang=en&timestamp=1712503953&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ROS-Gazebo: Turtlebot3 Navigation using Frontier Exploration")](https://www.youtube.com/watch?v=VYoRoqiOCD8)
@@ -51,6 +54,7 @@ I'm a robotics engineer with a passion for innovation and the transformative pow
 [![SR - Gazebo: Plan vs WallFollower vs Bug0](https://ytcards.demolab.com/?id=1YT_BXTuv5w&title=SR+-+Gazebo%3A+Plan+vs+WallFollower+vs+Bug0&lang=en&timestamp=1712495982&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "SR - Gazebo: Plan vs WallFollower vs Bug0")](https://www.youtube.com/watch?v=1YT_BXTuv5w)
 <!-- END YOUTUBE-CARDS -->
 
+#
 
 ![GIF](./media/giphy.gif)
 
