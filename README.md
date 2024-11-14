@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Teko&weight=800&size=52&pause=1000&color=6EEBF7&background=FFFFFF00&vCenter=true&width=435&lines=Joaquin+Coloma)](https://git.io/typing-svg)
+
 **`Robotics Engineer - Currently working on ABB`**
 
 <!--
