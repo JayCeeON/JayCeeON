@@ -7,7 +7,7 @@
 ![Banner_3](./media/banner_3.png)
 
 ### About me 
-I'm a robotics engineer driven by a passion for innovation and the power of automation to make a real-world impact. Constantly exploring new technologies, I strive for excellence in every project, aiming to create efficient, transformative systems that enhance human capabilities. My mission is to develop solutions that not only excel but also contribute to a smarter, more sustainable future.
+I'm a robotics engineer with a passion for innovation and the transformative power of automation. I’m deeply invested in exploring Machine Learning's potential in robotics to create adaptive, intelligent systems that push boundaries. Striving for excellence in every project, I aim to build solutions that enhance human capabilities and contribute to a smarter, more sustainable future.
 
 - 👨‍💻 I’m currently working on F1Tenth Autonomous Racing Systems 🏎️.
 - 📚 I’m currently learning Deep Reinforcement Learning for Robotics!
