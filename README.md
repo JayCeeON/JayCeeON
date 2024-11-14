@@ -4,7 +4,7 @@
 
 **`Currently working on ABB - Backend Robotics Sales Support Specialist`**
 
-![Banner_2](./media/banner.png)
+![Banner_2](./media/banner_2.png)
 
 <!--
 **JayCeeON/JayCeeON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
