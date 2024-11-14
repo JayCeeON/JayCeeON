@@ -14,8 +14,6 @@ I'm a robotics engineer with a passion for innovation and the transformative pow
 - ![German_Flag](./media/german_2.png) I'm currently learning German!
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
-![GIF](./media/giphy.gif)
-
 ### 🧰 Languages and Tools
 ![ROS](https://img.shields.io/badge/ROS-grey?logo=ros)
 ![ROS2](https://img.shields.io/badge/ROS2-blue?logo=ros)
@@ -30,18 +28,10 @@ I'm a robotics engineer with a passion for innovation and the transformative pow
 ![HTML5](https://img.shields.io/badge/HTML5-red?logo=html5&logoColor=white)
 <br />
 
-### 🧰 Robotics Simulators
-<!--
-**JayCeeON/JayCeeON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Robotics Simulators
 
-Here are some ideas to get you started:
+### 📇 Contact me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![GIF](./media/giphy.gif)
+
