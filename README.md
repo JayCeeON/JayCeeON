@@ -2,7 +2,7 @@
 
 # Robotics Engineer - I like building and programming stuff!
 
-**`Currently working on ABB - Backend Robotics Sales Support Specialist`**
+**`Currently working at ABB - Backend Robotics `**
 
 ![Banner_2](./media/banner_2.png)
 
