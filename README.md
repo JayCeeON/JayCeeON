@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Teko&weight=800&size=52&pause=1000&color=6EEBF7&background=FFFFFF00&vCenter=true&width=435&lines=Joaquin+Coloma)](https://git.io/typing-svg)
-![GIF](./media/giphy.gif)
 
 # Robotics Engineer - Industrial and Mobile Robotics!
 
@@ -15,6 +14,7 @@ I'm a robotics engineer with a passion for innovation and the transformative pow
 - ![German_Flag](./media/german_2.png) I'm currently learning German!
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
+![GIF](./media/giphy.gif)
 
 ### 🧰 Languages and Tools
 ![ROS](https://img.shields.io/badge/ROS-grey?logo=ros)
