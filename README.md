@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+I'm+Joaquin+Coloma!;I+Like+Robotics+and+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=6EEBF7&background=FFFFFF00&center=true&width=435&lines=Hi+There!+My+name+is+Joaquin;I+like+Robotics+and+Machine+Learning)](https://git.io/typing-svg)
 
 # 🦾 Joaquín Coloma
 
