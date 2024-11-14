@@ -7,9 +7,11 @@
 ![Banner_3](./media/banner_3.png)
 
 ### About me 
-I am a Robotics Engineer from Madrid, Spain, with a vision to bring machines to life in ways that empower and inspire. Driven by innovation, I build intelligent systems that push the limits of technology, transforming ideas into solutions that make a difference.
+As a robotics engineer, I am passionate about harnessing the power of automation to drive innovation and create meaningful impact in the world. With a dedication to continuous learning, I constantly explore new technologies and methodologies to expand my technical capabilities. I believe in the transformative potential of robotics—not just to streamline processes, but to push the boundaries of what's possible.
 
-- 👨‍💻 I’m currently working on F1Tenth Racing Autonomous Systems 🏎️.
+Every project I undertake is a step toward redefining efficiency and creating systems that enhance human capability. My goal is to develop solutions that not only perform with excellence but also pave the way for smarter, more sustainable industries. Through curiosity, creativity, and a commitment to excellence, I strive to leave a positive, lasting impact on the world around me.
+
+- 👨‍💻 I’m currently working on F1Tenth Autonomous Racing Systems 🏎️.
 - 📚 I’m currently learning Deep Reinforcement Learning for Robotics!
 - 🇩🇪 I'm currently learning German!
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
